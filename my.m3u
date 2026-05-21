@@ -1,38 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/willow-tv.png" group-title="sports",WILLOW TV
-https://edge2.roarzone.net:8447/roarzone/edge5/willow-tv/index.m3u8?token=077d4553d7758936836bbf49fdcb42df84b356af-72c985d1731f52ad3ad6269316ff49e3-1779303857-1779293057
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/xtrem-sports.png" group-title="sports",XTREM SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge5/xtrem-sports/index.m3u8?token=6987648c5e5009be7a239bcfb4fed71e221a26af-2a6a29a0268aaaa52ff8d8affe19da8e-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/talk-sport.png" group-title="sports",TALK SPORT
-https://edge2.roarzone.net:8447/roarzone/edge5/talk-sport/index.m3u8?token=8c2b41629152eb80967e1c0cfd1ab88e71442ce3-d46bf4d7a86f47505e445dcede32c5b0-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/fox-sports-2.png" group-title="sports",FOX SPORTS 2
-https://edge2.roarzone.net:8447/roarzone/edge5/fox-sports-2/index.m3u8?token=d0d659d518c163f8974dfa77cd53be2b7c8b6767-ce84c7006848a283f53cf2f15fa28450-1779303855-1779293055
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/a-sports.png" group-title="sports",A SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge5/a-sports/index.m3u8?token=22ed398ee3ac5202242a08bae7d21203848cca33-4101722b90f9520533a5fb413723fbfc-1779303855-1779293055
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sports-grid.png" group-title="sports",SPORTS GRID
-https://edge2.roarzone.net:8447/roarzone/edge5/sports-grid/index.m3u8?token=36b8463cfe9c50da1b489837fd87454c5ff69a95-9e1c0680c065897d1f93c082d404769b-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/more-then-sports-tv.png" group-title="sports",MORE THEN SPORTS TV
-https://edge2.roarzone.net:8447/roarzone/edge5/more-then-sports-tv/index.m3u8?token=098c8e4cec2c9c488d1de76175ae5e6e7fe8dd7e-a4b90a7d440760556e3e199636f9317a-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsn-3.png" group-title="sports",TSN 3
-https://edge2.roarzone.net:8447/roarzone/edge5/tsn-3/index.m3u8?token=5628efad1e5e5cb4432a3c0c251ddc422bbaa2a2-eae4be42b81a4747e71dac49a0b407f6-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/bahrain-sports-1.png" group-title="sports",BAHRAIN SPORTS 1
-https://edge2.roarzone.net:8447/roarzone/edge5/bahrain-sports-1/index.m3u8?token=3381bdf7080214ce4ac8c16566bc921a49e41457-66c77bf04d7cc5dab37567c8f97d9c70-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/marquee-sports-network.png" group-title="sports",MARQUEE SPORTS NETWORK
-https://edge2.roarzone.net:8447/roarzone/edge5/marquee-sports-network/index.m3u8?token=2242b847d2a4f310088d850711eeddf1afc25c1d-3de301ac02ccc6b72dc367d5eb23106b-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/tsn-2.png" group-title="sports",TSN 2
-https://edge2.roarzone.net:8447/roarzone/edge5/tsn-2/index.m3u8?token=f748224a19b5948b9c291e3ea9af4068deb440f7-3f8fb1561696c452d2a4852c9aa3633b-1779303855-1779293055
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/ptv-sports.png" group-title="sports",PTV SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge5/ptv-sports/index.m3u8?token=f760c9caa19d1a65c4ae91fa586036067a3ad807-44e54313526494bf090f2a9578bf1d53-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/dd-sports.png" group-title="sports",DD SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge5/dd-sports/index.m3u8?token=c2b84091f7380be6800965a28ffdbef631535248-c012c32760da5d3784c2b5c0827b5e58-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/nbc-sports.png" group-title="sports",NBC SPORTS
-https://edge2.roarzone.net:8447/roarzone/edge5/nbc-sports/index.m3u8?token=398a4895ba27f6fd200435b0f4fbb8e58a6e155e-a45344ada083252b8cf5edab7fb49b89-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/oman-sports-tv.png" group-title="sports",OMAN SPORTS TV
-https://edge2.roarzone.net:8447/roarzone/edge5/oman-sports-tv/index.m3u8?token=a639a461743aa08bf7ec2247820ec38ba6e7328f-b864a0d7b20c55c0ee23d044362bd6ea-1779303856-1779293056
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sports-fishing-tv.png" group-title="sports",SPORTS FISHING TV
-https://edge2.roarzone.net:8447/roarzone/edge5/sports-fishing-tv/index.m3u8?token=0f97af7589574b986407c5311f30b0630279b4b8-9b56759cf00f319a4f8da98f807fe10d-1779303855-1779293055
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports" group-title="",Star Sports 1 HD
