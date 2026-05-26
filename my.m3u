@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="sports",Sony Espn
 https://edge2.roarzone.net:8447/roarzone/edge5/espn/index.m3u8?token=591e1bdb61212cc4f5adc2b5be0b6c2e6a29422e-86885a1bf7d243cd905ebf4638df6a29-1779788342-1779777542
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/102.png" group-title="sports",T Sports
-https://edge2.roarzone.net:8447/roarzone/edge2/tsports/index.m3u8?token=9b3117b6f26ea99aced81a034c66fc38e0b4ee2c-3fe52e65bfb46599f4b2e89add44e686-1779788342-1779777542
+http://27.124.71.27/T-Sports/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_1_hd.png" group-title="sports",Sony Ten Sports 1 Hd
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_sports_1_hd/index.m3u8?token=b41f65a3be7cb4e906543f52a68c396e24511df3-6fabed6e06ea108d1157fcb38f2bee79-1779788342-1779777542
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/sony_sports_2_hd.png" group-title="sports",Sony Ten Sports 2 Hd
