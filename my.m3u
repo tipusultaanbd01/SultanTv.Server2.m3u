@@ -5,22 +5,9 @@
 # 🕒 Last Updated: 2026-05-30 02:59:23 PM
 # 📺 Channels Count: 211
 #=================================
-#EXTINF:-1 tvg-id="tapmad-13342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17790816741020x576.jpg" group-title="Football", PSG vs Arsenal | UEFA Champions League 2025/26
-https://tapmad.sm-monirul.top/2107108/vertical-backup312/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13574" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800054021020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Suzanne Lenglen Live | French Open 2026
-https://tapmad.sm-monirul.top/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13575" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800087211020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - World Feed Live | French Open 2026
-https://tapmad.sm-monirul.top/2107108/tapuefa/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13820" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800050141020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Simonne Mathieu | French Open 2026
-https://tapmad.sm-monirul.top/2107108/PSLE_tapmad2026-Backup/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13821" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800051941020x576.jpg" group-title="Tennis", Ladies, Gentlemen's & Mixed Doubles - 2nd Round - Court 14 Live | French Open 2026
-https://tapmad.sm-monirul.top/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13576" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800089681020x576.jpg" group-title="Tennis", Ladies' & Gentlemen's Singles - 3rd Round - Philippe Chatrier Live | French Open 2026
-https://tapmad.sm-monirul.top/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13485" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17798637001020x576.jpg" group-title="Cricket", Pakistan vs Australia Live | Australia Tour of Pakistan 2026
-https://tapmad.sm-monirul.top/2107108/Tapmad-PaKvZIm/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13897" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17800186821020x576.jpg" group-title="Racing", GT4 European Series - Race 1 Live | GT World Challenge EU & Asia 2026
-https://tapmad.sm-monirul.top/2107108/tap5tju8g1i/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
+https://tvsen5.aynaott.com/willowhd/index.m3u8?e=1779861937&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0ea46d3e88fbf2619b410897a6a00399
 
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.net/images/espn.png" group-title="sports",Sony Espn
 https://edge2.roarzone.net:8447/roarzone/edge5/espn/index.m3u8?token=9559027cb04e31d9e357625f5ad315397881788a-26bed91f9214f1a0bb1da6affdf62498-1780163643-1780152843
