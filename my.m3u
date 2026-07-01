@@ -1,8 +1,8 @@
 #=================================
 # 🖥️ Developed by: Monirul Islam
 # 🔗 Telegram: https://t.me/monirul_Islam_SM
-# 🕒 Last Updated: 2026-07-01 02:01:33 (BD Time)
-# 📺 Channels Count: 370
+# 🕒 Last Updated: 2026-07-01 10:01:28 (BD Time)
+# 📺 Channels Count: 368
 # 🔒 Usage: Personal / Educational
 #=================================
 
@@ -320,17 +320,17 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #====== Toffee World Cup ============
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 1
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782844807~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA6H8keVh3yHxpJEuKxsWVZPtHwILmhKK1RPKLjG0n_QikzhzyRNhQ_4PV65IsIFwQU2YN38zJKTGMb1QW-UxwI
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1782936012~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDNWmF8yzAv58ND9Th-oc0mKKYsl58H5njPvfWN9WKkVIhCd4BIzQP5qAgv1gKuKWfSPY2IxGzQOQ-DjNWo9xcP
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 2
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/0/master_1750.m3u8?hdntl=Expires=1782842413~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBBmUGx_tML6rp8NircbsS3NGyRSZWT9ZnUpXLG6zZeCn48uYX6ps0DgLVgPtwoemcCeupGi3QnAAa47cJfCF8O
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1782933609~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclDpNRposXwFKC77rlAIfn50QNfSNEmy0Ls503qle3z19MNP2zDLbHRL7cwcmc29_VVrrlHWAIIIoExfB5r4NwoI
 
 #EXTINF:-1 tvg-id="toffee" tvg-name="Fifa World Cup" tvg-logo="https://i.imgur.com/53aSeDH.png" group-title="World_Cup",Toffee 3
 https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/0/master_1750.m3u8?hdntl=Expires=1782842411~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBnJsx8sQz7xki2g7dymdYAcQrXjKtJ7RCcL6MNNc8HAKAlHMJsi7l9TIRCNoc8KzYLy3oWu0suDKjf5U3B5_EB
 #====== Bioscope World Cup ============
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png"  group-title="World_Cup",Bioscope
-http://exp.sm-monirul.top/ultra_restream/bioscope/index.m3u8
+http://sm-monirul.top/fifa/bioscope/index.m3u8
 EXTINF:-1 tvg-logo="https://i.postimg.cc/X7qgs8BY/images-d47abaf70fb3ea50af7cdf455ccab5a6-goplay-bioscope-icon-transparent-app.png" ,Bioscope
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 
@@ -1097,14 +1097,8 @@ https://madanitv.assadikb.workers.dev/live.php?id=144&e=.m3u8
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://book4u.top/worker/index.php?path=api/526bde04a5/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Mysore Warriors [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png" group-title="Fancode",Coastal Kings Mangaluru Vs Mysore Warriors [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_english_hls_db35e85e453888_1ta-di_h264/*~Signature=ARZJ1WLvBVV6CadVrn5sGj20eXwGv3dYjpi6yFsEGQHDPOI3THHVH6YCE1ZsYAfn9DTlsRURsxpHobjCouyt0_s54j8I
-
-#EXTINF:-1 tvg-name="Coastal Kings Mangaluru Vs Mysore Warriors [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781841438714/143433_CASACARDS_SPORTY_APP.png" group-title="Fancode",Coastal Kings Mangaluru Vs Mysore Warriors [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782926768~_GO=Generated~acl=/mumbai/143433_kannada_hls_7662c5097e89315_1ta-di_h264/*~Signature=ARZJ1WKG97KUqYd5kDu_7_Lc3P-gurayFSr5M8nqIG9Jqp0VcI9UaFkWQqgxRcogFUXmSXWD8iMZLAmMagGMP1HZZEgF
-
-#EXTINF:-1 tvg-name="Karim Capital Chargers Vs Ka Noida Blaze [LIVE]" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Future-Star-U-15-Championship_fc-web.jpg" group-title="Fancode",Karim Capital Chargers Vs Ka Noida Blaze [LIVE]
-https://bd-mc-flive.fancode.com/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1782913444~_GO=Generated~acl=/mumbai/143565_english_hls_108c4c28d252719_1ta-di_h264/*~Signature=ARZJ1WIgVhNqWWhwZU4EmNCHJePp2jKZnBF9d2FUc7a51fCt_FtAP49DWrUQ2BiVsTMruP61ppaXGyWlMI2na9CyH9IA
+#EXTINF:-1 tvg-name="Mills Cricket Club Vs Rml Sports [LIVE]" tvg-logo="https://images.fancode.com/aig/match/v1781869172001/143531_CASACARDS_SPORTY_APP.png" group-title="Fancode",Mills Cricket Club Vs Rml Sports [LIVE]
+https://bd-mc-flive.fancode.com/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782961505~_GO=Generated~acl=/mumbai/143531_english_hls_e15c30786748760_1ta-di_h264/*~Signature=ARZJ1WL3jv7-ARfK2SGBzsHS-pvMbPu4slI7vEKghd2-EaT4LJMuudtgcUpKVsaYxCJjlHcCzznqJZRsXGELygD97K4A
 
 #EXTINF:-1 tvg-id="tapmad-14735" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825138051020x576.jpg" group-title="Tapmad", CrowdStrike 24 Hours of Spa - Race Live | GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/P2s6L-FiN@L-World_Feed/master.m3u8
